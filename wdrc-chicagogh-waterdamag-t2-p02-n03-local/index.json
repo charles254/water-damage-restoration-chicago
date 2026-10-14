@@ -1,0 +1,23 @@
+{
+  "nodeCode": "WDRC-CHICAGOGH-WATERDAMAG-T2-P02-N03-LOCAL",
+  "slug": "wdrc-chicagogh-waterdamag-t2-p02-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Chicago Water Damage Insurance Claims, Xactimate Estimating & Rights",
+  "canonical": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t2-p02-n03-local/",
+  "primaryEntity": "Sump Pump Battery-Backup Failure & Dual Check Valve Triage",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t1-p00-n02-local/",
+      "anchor": "Basement Flood Cleanup, Sump Pump Failure & Sewage Extraction in Chicago",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://waterdamagerestorationchicagoils.net/services/flooded-basement-cleanup/",
+    "https://waterdamagerestorationchicagoils.net/",
+    "https://waterdamagerestorationchicagoils.net/services/sewage-backup-cleanup/",
+    "https://waterdamagerestorationchicagoils.net/services/mold-remediation/"
+  ]
+}
