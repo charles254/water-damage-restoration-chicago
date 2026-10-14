@@ -1,0 +1,23 @@
+{
+  "nodeCode": "WDRC-CHICAGOGH-WATERDAMAG-T2-P01-N03-LOCAL",
+  "slug": "wdrc-chicagogh-waterdamag-t2-p01-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Category 3 Sewage Backup & Biohazard Remediation in Chicago",
+  "canonical": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t2-p01-n03-local/",
+  "primaryEntity": "Applied Structural Drying & Low-Grain Refrigerant (LGR) Psychrometrics",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t1-p00-n01-local/",
+      "anchor": "Chicago Water Damage Restoration & 24/7 Flood Extraction Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://waterdamagerestorationchicagoils.net/services/structural-drying/",
+    "https://waterdamagerestorationchicagoils.net/",
+    "https://waterdamagerestorationchicagoils.net/services/flooded-basement-cleanup/",
+    "https://waterdamagerestorationchicagoils.net/services/sewage-backup-cleanup/"
+  ]
+}
