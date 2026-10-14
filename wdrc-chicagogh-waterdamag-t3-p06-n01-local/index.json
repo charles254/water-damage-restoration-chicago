@@ -1,0 +1,22 @@
+{
+  "nodeCode": "WDRC-CHICAGOGH-WATERDAMAG-T3-P06-N01-LOCAL",
+  "slug": "wdrc-chicagogh-waterdamag-t3-p06-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Subfloor Water Damage Repair & Moisture Barrier Installation in Chicago",
+  "canonical": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t3-p06-n01-local/",
+  "primaryEntity": "Chicago Deep Tunnel Combined Sewer Overflow Hydrostatic Mitigation",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t2-p02-n03-local/",
+      "anchor": "Chicago Water Damage Insurance Claims, Xactimate Estimating & Rights",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://waterdamagerestorationchicagoils.net/services/flooded-basement-cleanup/",
+    "https://waterdamagerestorationchicagoils.net/services/structural-drying/",
+    "https://waterdamagerestorationchicagoils.net/"
+  ]
+}
