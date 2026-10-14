@@ -1,0 +1,23 @@
+{
+  "nodeCode": "WDRC-CHICAGOGH-WATERDAMAG-T3-P02-N02-LOCAL",
+  "slug": "wdrc-chicagogh-waterdamag-t3-p02-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Commercial Water Damage Restoration & Business Continuity in Chicago",
+  "canonical": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t3-p02-n02-local/",
+  "primaryEntity": "Chicago Two-Flat & Multi-Tenant Stacked Plumbing Flood Isolation",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t2-p01-n02-local/",
+      "anchor": "Structural Drying & Industrial Dehumidification Standards in Chicago",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://waterdamagerestorationchicagoils.net/",
+    "https://waterdamagerestorationchicagoils.net/guides/illinois-water-damage-insurance-claims/",
+    "https://waterdamagerestorationchicagoils.net/areas/lincoln-park/",
+    "https://waterdamagerestorationchicagoils.net/areas/logan-square/"
+  ]
+}
