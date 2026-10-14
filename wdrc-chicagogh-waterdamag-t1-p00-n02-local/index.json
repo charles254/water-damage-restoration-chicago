@@ -1,0 +1,24 @@
+{
+  "nodeCode": "WDRC-CHICAGOGH-WATERDAMAG-T1-P00-N02-LOCAL",
+  "slug": "wdrc-chicagogh-waterdamag-t1-p00-n02-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Basement Flood Cleanup, Sump Pump Failure & Sewage Extraction in Chicago",
+  "canonical": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t1-p00-n02-local/",
+  "primaryEntity": "24/7 Rapid Emergency Water Extraction & Truck-Mounted Vacuum Triage",
+  "outgoingLinks": [
+    {
+      "url": "https://waterdamagerestorationchicagoils.net/services/water-extraction/",
+      "anchor": "emergency water extraction chicago il",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://waterdamagerestorationchicagoils.net/services/water-extraction/",
+    "https://waterdamagerestorationchicagoils.net/services/flooded-basement-cleanup/",
+    "https://waterdamagerestorationchicagoils.net/services/burst-frozen-pipes/",
+    "https://waterdamagerestorationchicagoils.net/services/structural-drying/",
+    "https://waterdamagerestorationchicagoils.net/"
+  ]
+}
