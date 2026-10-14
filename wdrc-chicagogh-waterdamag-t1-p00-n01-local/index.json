@@ -1,0 +1,24 @@
+{
+  "nodeCode": "WDRC-CHICAGOGH-WATERDAMAG-T1-P00-N01-LOCAL",
+  "slug": "wdrc-chicagogh-waterdamag-t1-p00-n01-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Chicago Water Damage Restoration & 24/7 Flood Extraction Guide",
+  "canonical": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t1-p00-n01-local/",
+  "primaryEntity": "ANSI/IICRC S500 Standard of Care for Water Damage Restoration",
+  "outgoingLinks": [
+    {
+      "url": "https://waterdamagerestorationchicagoils.net/",
+      "anchor": "certified water damage restoration in chicago il",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://waterdamagerestorationchicagoils.net/",
+    "https://waterdamagerestorationchicagoils.net/services/water-extraction/",
+    "https://waterdamagerestorationchicagoils.net/services/flooded-basement-cleanup/",
+    "https://waterdamagerestorationchicagoils.net/services/burst-frozen-pipes/",
+    "https://waterdamagerestorationchicagoils.net/services/structural-drying/"
+  ]
+}
