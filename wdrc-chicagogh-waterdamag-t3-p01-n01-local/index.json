@@ -1,0 +1,23 @@
+{
+  "nodeCode": "WDRC-CHICAGOGH-WATERDAMAG-T3-P01-N01-LOCAL",
+  "slug": "wdrc-chicagogh-waterdamag-t3-p01-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Infrared Thermal Imaging & Non-Destructive Moisture Mapping in Chicago",
+  "canonical": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t3-p01-n01-local/",
+  "primaryEntity": "High-Vacuum Injectidry Mat Hardwood Floor Moisture Salvage",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t2-p01-n01-local/",
+      "anchor": "Winter Frozen Burst Pipe Water Damage Restoration in Chicago IL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://waterdamagerestorationchicagoils.net/",
+    "https://waterdamagerestorationchicagoils.net/services/sewage-backup-cleanup/",
+    "https://waterdamagerestorationchicagoils.net/services/mold-remediation/",
+    "https://waterdamagerestorationchicagoils.net/guides/illinois-water-damage-insurance-claims/"
+  ]
+}
