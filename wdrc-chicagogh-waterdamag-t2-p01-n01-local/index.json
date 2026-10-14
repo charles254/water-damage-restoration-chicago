@@ -1,0 +1,23 @@
+{
+  "nodeCode": "WDRC-CHICAGOGH-WATERDAMAG-T2-P01-N01-LOCAL",
+  "slug": "wdrc-chicagogh-waterdamag-t2-p01-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Winter Frozen Burst Pipe Water Damage Restoration in Chicago IL",
+  "canonical": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t2-p01-n01-local/",
+  "primaryEntity": "Chicago Deep Tunnel Combined Sewer Overflow Hydrostatic Mitigation",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t1-p00-n01-local/",
+      "anchor": "Chicago Water Damage Restoration & 24/7 Flood Extraction Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://waterdamagerestorationchicagoils.net/services/flooded-basement-cleanup/",
+    "https://waterdamagerestorationchicagoils.net/services/burst-frozen-pipes/",
+    "https://waterdamagerestorationchicagoils.net/services/structural-drying/",
+    "https://waterdamagerestorationchicagoils.net/"
+  ]
+}
