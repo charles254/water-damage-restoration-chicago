@@ -1,0 +1,25 @@
+{
+  "nodeCode": "WDRC-CHICAGOGH-WATERDAMAG-T3-P04-N02-LOCAL",
+  "slug": "wdrc-chicagogh-waterdamag-t3-p04-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Chicago Overloaded Combined Sewer Mitigation & Backflow Valve Solutions",
+  "canonical": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t3-p04-n02-local/",
+  "primaryEntity": "Logan Square Commercial & Residential Flood Cleanup Dispatch",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t2-p02-n01-local/",
+      "anchor": "Mold Remediation & Microbial Prevention Following Water Damage in Chicago",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://waterdamagerestorationchicagoils.net/areas/logan-square/",
+    "https://waterdamagerestorationchicagoils.net/",
+    "https://waterdamagerestorationchicagoils.net/services/water-extraction/",
+    "https://waterdamagerestorationchicagoils.net/services/flooded-basement-cleanup/",
+    "https://waterdamagerestorationchicagoils.net/services/burst-frozen-pipes/",
+    "https://waterdamagerestorationchicagoils.net/services/structural-drying/"
+  ]
+}
