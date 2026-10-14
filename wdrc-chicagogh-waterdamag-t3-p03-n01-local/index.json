@@ -1,0 +1,24 @@
+{
+  "nodeCode": "WDRC-CHICAGOGH-WATERDAMAG-T3-P03-N01-LOCAL",
+  "slug": "wdrc-chicagogh-waterdamag-t3-p03-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Appliance Water Leak Cleanup: Washing Machines, Dishwashers & Heaters in Chicago",
+  "canonical": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t3-p03-n01-local/",
+  "primaryEntity": "Precision 12-to-24 Inch Controlled Flood Cuts & Cavity Flushing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t2-p01-n03-local/",
+      "anchor": "Category 3 Sewage Backup & Biohazard Remediation in Chicago",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://waterdamagerestorationchicagoils.net/",
+    "https://waterdamagerestorationchicagoils.net/guides/illinois-water-damage-insurance-claims/",
+    "https://waterdamagerestorationchicagoils.net/areas/lincoln-park/",
+    "https://waterdamagerestorationchicagoils.net/areas/logan-square/",
+    "https://waterdamagerestorationchicagoils.net/services/water-extraction/"
+  ]
+}
