@@ -1,0 +1,23 @@
+{
+  "nodeCode": "WDRC-CHICAGOGH-WATERDAMAG-T2-P02-N01-LOCAL",
+  "slug": "wdrc-chicagogh-waterdamag-t2-p02-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Mold Remediation & Microbial Prevention Following Water Damage in Chicago",
+  "canonical": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t2-p02-n01-local/",
+  "primaryEntity": "High-Resolution Non-Invasive Radiometric Infrared Moisture Mapping",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t1-p00-n02-local/",
+      "anchor": "Basement Flood Cleanup, Sump Pump Failure & Sewage Extraction in Chicago",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://waterdamagerestorationchicagoils.net/",
+    "https://waterdamagerestorationchicagoils.net/services/flooded-basement-cleanup/",
+    "https://waterdamagerestorationchicagoils.net/services/sewage-backup-cleanup/",
+    "https://waterdamagerestorationchicagoils.net/services/mold-remediation/"
+  ]
+}
