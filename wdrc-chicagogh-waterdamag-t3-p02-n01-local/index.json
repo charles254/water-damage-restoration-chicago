@@ -1,0 +1,24 @@
+{
+  "nodeCode": "WDRC-CHICAGOGH-WATERDAMAG-T3-P02-N01-LOCAL",
+  "slug": "wdrc-chicagogh-waterdamag-t3-p02-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Hardwood Floor Water Extraction & Floor Mat System Drying in Chicago",
+  "canonical": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t3-p02-n01-local/",
+  "primaryEntity": "Post-Water Damage 48-Hour Microbial Suppression & HEPA 500 Scrubbing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t2-p01-n02-local/",
+      "anchor": "Structural Drying & Industrial Dehumidification Standards in Chicago",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://waterdamagerestorationchicagoils.net/services/mold-remediation/",
+    "https://waterdamagerestorationchicagoils.net/",
+    "https://waterdamagerestorationchicagoils.net/guides/illinois-water-damage-insurance-claims/",
+    "https://waterdamagerestorationchicagoils.net/areas/lincoln-park/",
+    "https://waterdamagerestorationchicagoils.net/areas/logan-square/"
+  ]
+}
