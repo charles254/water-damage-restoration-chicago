@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charles254.github.io/water-damage-restoration-chicago/wdrc-chicagogh-waterdamag-t3-p02-n02-local/sitemap.xml
